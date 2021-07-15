@@ -1,8 +1,8 @@
 # Advertising-Dataset---Exploratory-data-analysis-and-Machine-Learning-Classification
 Performing Exploratory Data Analysis and predicting if the user will click on the advertisement or not.
 
-Contents 
-1 About the Dataset
+## Contents 
+## About the Dataset
 
 2 **Get the Data**
 2.1 Importing the required libraries
