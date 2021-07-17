@@ -1,6 +1,6 @@
 # Advertising-Dataset---Exploratory-data-analysis-and-Machine-Learning-Classification
 
-In this project, we worked on an advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. We performed Exploratory Data Analysis and developed several Machine Learning Classification models that predicts whether or not a user will click on an ad based off the features of that user.
+In this project, I worked on an advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. We performed Exploratory Data Analysis and developed several Machine Learning Classification models that predicts whether or not a user will click on an ad based off the features of that user.
 
 This data set contains the following features:
 
