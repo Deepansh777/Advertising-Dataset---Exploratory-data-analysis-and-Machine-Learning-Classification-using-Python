@@ -21,4 +21,5 @@ This data set contains the following features:
 
 | **Parameter** | **Logistic Regression** | **KNN** | **Decision Tree** | **Random Forest** | **SVM** |
 | --- | --- | --- | --- | --- | --- |
+| **Accuracy** | 0.91 | 0.94 | 0.95 | 0.95 | 0.97 |
 
