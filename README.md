@@ -19,3 +19,6 @@ This data set contains the following features:
 
 ### **Model Comparison**
 
+| **Parameter** | **Logistic Regression** | **KNN** | **Decision Tree** | **Random Forest** | **SVM** |
+| --- | --- | --- | --- | --- | --- |
+
