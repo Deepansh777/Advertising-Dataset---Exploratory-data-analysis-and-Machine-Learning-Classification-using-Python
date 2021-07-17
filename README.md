@@ -25,3 +25,13 @@ This data set contains the following features:
 | **Precision** | 0.94 | 0.99 | 0.96 | 0.96 | 0.99 | 
 | **Recall** | 0.87 | 0.90 | 0.94 | 0.94 | 0.95 | 
 | **F1-Score** | 0.91 | 0.94 | 0.95 | 0.95 | 0.97 |
+
+- The confusion matrix provides more insight into the accuracy of a predictive model and which classes are being predicted correctly, which incorrectly, and what type of errors are being made.
+- For the Advertisements Dataset, 5 different machine learning models were developed to predict if a person would click on the advertisements or not provided we have information about the dependent variables.
+- From the summary provided, it is evident that the SVM model works slightly better than all other models.
+- While SVM turned out to be the best model, it looks like Logistic regression is the worst model out of all for this particular dataset.
+- Overall, SVM has a high Classification Accuracy.
+- In all the classification models, the test and train dataset was split randomly. However, the models can be further improved by using Cross-Validation method for splitting the data into test and train. The way the data is resampled has the potential to affect the overall quality of the model.
+- The input parameters can be further tuned to improvise the quality of the model. No attempt was made to tune the parameters except the SVM model, as the accuracy was already high. There is always a slight risk of overfitting the model if the parameters are tuned extensively.
+
+-- **Deepansh Arora**
